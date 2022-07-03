@@ -1,0 +1,67 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url(images/Banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    padding: 10px 5%;
+    background-color:white;
+}
+header>*{
+    display: inline-block;
+    width:450px;
+}
+.pustota{
+    width:600;
+}
+header a{
+    text-decoration: none;
+    color: rgb(87, 70, 70);
+    margin:200px 10px;
+}
+.banner{
+    padding: 5% 5%;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.post{
+    background-image: url(images/me\ fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(255, 255, 255)
+}
+.post>*{
+    display: inline-block;
+    width:400px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.razryv{
+    height:400x;
+}
+#final{
+    padding:15% 30%;
+    background-image: url(pattern.jpg);
+    background-attachment: fixed;
+}
+#final>div{
+    padding: 10px;
+    background-color: white;
+    font-size:30px;
+    text-align: center;
+    border: 4px solid black;
+}
+.razryv{
+    height:999x;
+}
+footer{
+    background-color:black;
+    padding:10px 10px;
+    text-align: center;
+    color:white;
+}
