@@ -2,7 +2,7 @@
     margin:0;
 }
 body{
-    background-image: url(images/Banner.jpeg);
+    background-image: url(Banner.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -29,7 +29,7 @@ header a{
     font-size: 20px;
 }
 .post{
-    background-image: url(images/me\ fon.jpg);
+    background-image: url(me\ fon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
